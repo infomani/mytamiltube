@@ -1,0 +1,27 @@
+{
+  "name": "xxx",
+  "authors": [
+    "sss@gmail.com"
+  ],
+  "description": "xxxx",
+  "main": "xxx.html",
+  "keywords": [
+    "jquery",
+    "cloud",
+    "rest"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "brightburn-et00099131-18-03-2019-03-36-48": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/brightburn-et00099131-18-03-2019-03-36-48.jpg"
+  }
+}
